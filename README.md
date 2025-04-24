@@ -3,8 +3,12 @@
 <h1> Hey, I'm Santiago ⚡️</h1>
 
 <h3> 📚 Studying... </h2>
-- CS at the University of Waterloo 👨‍💻
-- Business Administration at Wilfrid Laurier University 📊
+<ul>
+  <li> CS at the **University of Waterloo** 👨‍💻 </li>
+  <li> Business Administration at **Wilfrid Laurier University** 📊 </li>
+</ul>
+ 
+- 
 
 <!--
 **sanguzare/sanguzare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
