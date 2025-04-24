@@ -2,6 +2,10 @@
 
 <h1> Hey, I'm Santiago ⚡️</h1>
 
+<h3> 👋 About Me </h3>
+
+<p>I'm a <b>CS + Business</b> student passionate about building <i>innovative and artistic</i> solutions to everyday problems. 🛠️ </p>
+
 <h3> 📚 Education </h2>
 <ul>
   <li> 👨‍💻 <b>Computer Science (BCS)</b> at the <b>University of Waterloo</b> 🌎</li>
