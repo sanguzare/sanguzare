@@ -4,8 +4,8 @@
 
 <h3> 📚 Studying... </h2>
 <ul>
-  <li> <b> Computer Science </b> at the <u> University of Waterloo </u> 👨‍💻 </li>
-  <li> <b> Business Administration </b> at <u> Wilfrid Laurier University </u> 📊 </li>
+  <li> 👨‍💻 <b>Computer Science</b> at the <u>University of Waterloo</u> 🌎 </li>
+  <li> 📊 <b>Business Administration</b> at <u>Wilfrid Laurier University</u> 🏫 </li>
 </ul>
 
 <!--
