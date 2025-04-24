@@ -1,5 +1,7 @@
 ## Hey, I'm Santiago ##
 
+- Studying CS at the University of Waterloo + Business Administration at Wilfrid Laurier University
+
 <!--
 **sanguzare/sanguzare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
