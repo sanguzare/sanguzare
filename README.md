@@ -1,3 +1,5 @@
+![Header](retro-banner.gif)
+
 ## Hey, I'm Santiago ##
 
 - Studying CS at the University of Waterloo + Business Administration at Wilfrid Laurier University
