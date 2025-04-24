@@ -4,11 +4,9 @@
 
 <h3> 📚 Studying... </h2>
 <ul>
-  <li> CS at the **University of Waterloo** 👨‍💻 </li>
-  <li> Business Administration at **Wilfrid Laurier University** 📊 </li>
+  <li> <b> Computer Science </b> at the <u> University of Waterloo </u> 👨‍💻 </li>
+  <li> <b> Business Administration </b> at <u> Wilfrid Laurier University </u> 📊 </li>
 </ul>
- 
-- 
 
 <!--
 **sanguzare/sanguzare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
