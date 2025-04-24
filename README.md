@@ -1,5 +1,3 @@
-![](retro-banner.gif)
-
 <h1> Hey, I'm Santiago ⚡️</h1>
 
 - Studying CS at the University of Waterloo + Business Administration at Wilfrid Laurier University
