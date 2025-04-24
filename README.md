@@ -1,4 +1,4 @@
-![Header](retro-banner.gif)
+![](retro-banner.gif)
 
 <h1> Hey, I'm Santiago ⚡️</h1>
 
